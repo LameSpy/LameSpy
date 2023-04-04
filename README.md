@@ -1,16 +1,13 @@
-### Hi there 👋
+### About me
 
-<!--
-**LameSpy/LameSpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤖 Website: []() 
+- 💼 [LinkedIn](https://www.linkedin.com/in/dmitriy-aladev-performance-marketing/)
+- 💬 [telegram](https://t.me/Lamespy)
+- 📫 The easiest way to reach me: lamespy2012@gmail.com 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LameSpy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+### My repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lamespy&repo=dataeng-zoomcamp)](https://github.com/LameSpy/dataeng-zoomcamp)
