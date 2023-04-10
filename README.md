@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/LameSpy/LameSpy/blob/main/Transform%20data%20into%20solutions%20with%20Analytics%20Engineer..png?raw=true">
+</p>
+
 <h3 align="center"> Analytics Engineer | Data Analyst | BI Developer | Digital Marketing Specialist </h3>
 
 ### About Me :
